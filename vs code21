@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8"/>
+    <title>CocaCola</title>
+  </head>
+  <body>
+    <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coca-Cola_logo.svg/800px-Coca-Cola_logo.svg.png" />
+    <h1>CocaCola</h1>
+    <P>The Coca-Cola Company has been refreshing the world and making a difference for over 136 years.</P>
+
+    <hr>
+
+    <h2>Our Brands</h2>
+    <ul>
+      We've established a portfolio of drinks that are best positioned to grow in an ever-changing marketplace.
+
+From trademark Coca-Cola to Sports, Juice & Dairy Drinks, Alcohol Ready-to-Drink Beverages and more, discover some of our most popular brands in North America and from around the world.
+    </ul>
+
+    <hr>
+
+    <h2>Purpose</h2>
+    <ol>Our purpose is to refresh the world and make a difference. See how our company and system employees make this possible every day and learn more about our areas of focus in sustainability.</ol>
+
+    <hr>
+
+    <h2>Social Impact</h2>
+    <ul>We aim to improve people's lives, from our employees to those who touch our business to the many communities we call home.</ul>
+
+    <hr>
+
+    <h2>our social networks</h2>
+    <ul>
+      <li><a href="https://www.instagram.com/TheCocaColaCo/"
+      target="_blank">Instagram</a></li>
+      <li><a href="https://www.youtube.com/user/CocaColaCo"
+      target="_blank">Youtube</a></li>
+      <li><a href="https://www.facebook.com/TheCocaColaCo"
+      target="_blank">Facebook</a></li>
+      <li><a href="https://twitter.com/CocaColaCo"
+      target="_blank">Twitter</a></li>
+    </ul>
+  </body>
+</html>
